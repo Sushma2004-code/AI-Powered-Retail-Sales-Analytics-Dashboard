@@ -1,0 +1,1001 @@
+Order_ID,Date,Store,Product,Category,Quantity,Price
+1000,2023-04-17,Chennai,Charger,Electronics,5,1344
+1001,2023-08-03,Mumbai,Sugar,Groceries,2,516
+1002,2023-12-26,Mumbai,Charger,Electronics,5,1173
+1003,2023-10-21,Delhi,Shampoo,Personal Care,2,393
+1004,2023-11-10,Chennai,Dress,Clothing,5,1234
+1005,2023-02-28,Delhi,T-Shirt,Clothing,1,524
+1006,2023-09-28,Mumbai,Dress,Clothing,4,1025
+1007,2023-05-11,Chennai,Jacket,Clothing,4,881
+1008,2023-06-16,Delhi,Keyboard,Electronics,5,890
+1009,2023-08-30,Delhi,T-Shirt,Clothing,4,63
+1010,2023-12-06,Bangalore,Wheat Flour,Groceries,5,947
+1011,2023-09-21,Mumbai,Charger,Electronics,4,558
+1012,2023-12-26,Bangalore,Shampoo,Personal Care,4,1635
+1013,2023-11-06,Chennai,Soap,Personal Care,2,1845
+1014,2023-06-11,Delhi,Mouse,Electronics,2,1629
+1015,2023-07-09,Chennai,Face Wash,Personal Care,4,1066
+1016,2023-02-22,Delhi,T-Shirt,Clothing,2,928
+1017,2023-02-10,Chennai,Oil,Groceries,4,429
+1018,2023-11-23,Hyderabad,Headphones,Electronics,1,1930
+1019,2023-03-04,Mumbai,T-Shirt,Clothing,4,697
+1020,2023-10-16,Mumbai,Headphones,Electronics,3,468
+1021,2023-01-28,Hyderabad,Wheat Flour,Groceries,2,90
+1022,2023-02-17,Chennai,Dress,Clothing,2,1106
+1023,2023-08-15,Chennai,Charger,Electronics,3,1620
+1024,2023-01-05,Delhi,Mouse,Electronics,3,1842
+1025,2023-07-26,Delhi,Keyboard,Electronics,3,442
+1026,2023-03-04,Hyderabad,Face Wash,Personal Care,5,1764
+1027,2023-08-19,Chennai,T-Shirt,Clothing,4,1807
+1028,2023-01-13,Mumbai,Keyboard,Electronics,5,1109
+1029,2023-06-19,Chennai,Mouse,Electronics,4,627
+1030,2023-10-11,Bangalore,Shampoo,Personal Care,5,695
+1031,2023-11-27,Delhi,Dress,Clothing,4,1871
+1032,2023-07-09,Hyderabad,Charger,Electronics,1,1304
+1033,2023-04-26,Chennai,Rice,Groceries,3,682
+1034,2023-11-14,Chennai,Sugar,Groceries,3,698
+1035,2023-06-01,Mumbai,Sugar,Groceries,2,733
+1036,2023-04-23,Hyderabad,Face Wash,Personal Care,1,1765
+1037,2023-10-22,Delhi,Face Wash,Personal Care,4,1583
+1038,2023-03-22,Mumbai,Headphones,Electronics,5,1698
+1039,2023-02-23,Chennai,Wheat Flour,Groceries,2,269
+1040,2023-05-06,Delhi,T-Shirt,Clothing,1,1476
+1041,2023-07-17,Bangalore,Oil,Groceries,2,1745
+1042,2023-09-12,Chennai,Keyboard,Electronics,3,450
+1043,2023-08-28,Hyderabad,Jeans,Clothing,3,1584
+1044,2023-12-15,Mumbai,Oil,Groceries,3,1399
+1045,2023-12-12,Mumbai,Dress,Clothing,3,452
+1046,2023-07-18,Bangalore,Keyboard,Electronics,4,913
+1047,2023-05-09,Mumbai,Rice,Groceries,2,921
+1048,2023-10-25,Mumbai,T-Shirt,Clothing,1,200
+1049,2023-03-01,Hyderabad,Charger,Electronics,2,673
+1050,2023-02-06,Mumbai,Shampoo,Personal Care,4,502
+1051,2023-05-27,Mumbai,Headphones,Electronics,1,1172
+1052,2023-04-26,Mumbai,Dress,Clothing,1,1993
+1053,2023-04-14,Bangalore,Oil,Groceries,4,1495
+1054,2023-06-02,Chennai,Toothpaste,Personal Care,1,148
+1055,2023-11-06,Mumbai,Face Wash,Personal Care,2,1779
+1056,2023-03-09,Hyderabad,T-Shirt,Clothing,1,210
+1057,2023-05-15,Mumbai,Shampoo,Personal Care,4,1577
+1058,2023-01-22,Chennai,Oil,Groceries,1,737
+1059,2023-08-14,Chennai,Mouse,Electronics,3,76
+1060,2023-11-13,Mumbai,Shampoo,Personal Care,4,928
+1061,2023-01-17,Bangalore,Jacket,Clothing,1,1585
+1062,2023-01-06,Mumbai,Jeans,Clothing,5,1119
+1063,2023-12-15,Hyderabad,T-Shirt,Clothing,5,329
+1064,2023-04-26,Chennai,Shampoo,Personal Care,3,749
+1065,2023-11-19,Delhi,Oil,Groceries,1,1329
+1066,2023-12-26,Delhi,Wheat Flour,Groceries,2,1396
+1067,2023-06-04,Delhi,Jacket,Clothing,2,1712
+1068,2023-10-26,Chennai,Soap,Personal Care,1,1177
+1069,2023-11-02,Hyderabad,Toothpaste,Personal Care,2,1940
+1070,2023-11-09,Bangalore,T-Shirt,Clothing,4,1579
+1071,2023-05-22,Bangalore,Oil,Groceries,1,1849
+1072,2023-11-18,Mumbai,Keyboard,Electronics,4,1427
+1073,2023-11-10,Delhi,Wheat Flour,Groceries,5,199
+1074,2023-11-22,Mumbai,Shampoo,Personal Care,4,731
+1075,2023-02-22,Bangalore,T-Shirt,Clothing,1,313
+1076,2023-07-15,Chennai,Dress,Clothing,5,1176
+1077,2023-11-04,Chennai,Dress,Clothing,3,872
+1078,2023-05-27,Hyderabad,Face Wash,Personal Care,2,1743
+1079,2023-02-27,Delhi,Jacket,Clothing,3,1677
+1080,2023-10-06,Hyderabad,Wheat Flour,Groceries,5,1903
+1081,2023-05-02,Hyderabad,T-Shirt,Clothing,1,1131
+1082,2023-08-25,Chennai,Mouse,Electronics,1,537
+1083,2023-03-10,Chennai,Oil,Groceries,5,753
+1084,2023-05-24,Mumbai,Keyboard,Electronics,4,203
+1085,2023-08-08,Chennai,Wheat Flour,Groceries,1,1358
+1086,2023-07-23,Delhi,Headphones,Electronics,4,502
+1087,2023-04-10,Hyderabad,Face Wash,Personal Care,5,600
+1088,2023-09-07,Delhi,Soap,Personal Care,5,72
+1089,2023-06-29,Delhi,Shampoo,Personal Care,4,851
+1090,2023-09-14,Chennai,Toothpaste,Personal Care,2,1681
+1091,2023-06-09,Mumbai,Oil,Groceries,2,546
+1092,2023-06-12,Bangalore,Dress,Clothing,4,739
+1093,2023-04-11,Bangalore,Rice,Groceries,5,740
+1094,2023-11-26,Mumbai,Headphones,Electronics,1,1241
+1095,2023-04-05,Delhi,T-Shirt,Clothing,5,61
+1096,2023-08-03,Hyderabad,Sugar,Groceries,2,84
+1097,2023-03-31,Delhi,Face Wash,Personal Care,5,1995
+1098,2023-04-24,Chennai,Headphones,Electronics,4,875
+1099,2023-10-04,Chennai,Headphones,Electronics,4,778
+1100,2023-07-11,Mumbai,Oil,Groceries,2,1942
+1101,2023-04-06,Chennai,Sugar,Groceries,4,1027
+1102,2023-08-05,Mumbai,T-Shirt,Clothing,5,328
+1103,2023-03-03,Bangalore,Wheat Flour,Groceries,1,1954
+1104,2023-01-19,Hyderabad,T-Shirt,Clothing,5,748
+1105,2023-03-17,Hyderabad,Dress,Clothing,5,1306
+1106,2023-05-24,Chennai,Charger,Electronics,4,900
+1107,2023-02-22,Hyderabad,Sugar,Groceries,4,1098
+1108,2023-07-05,Delhi,Headphones,Electronics,5,1115
+1109,2023-11-27,Delhi,Sugar,Groceries,5,284
+1110,2023-09-10,Chennai,Charger,Electronics,1,1147
+1111,2023-10-10,Delhi,Jeans,Clothing,1,995
+1112,2023-12-05,Chennai,Shampoo,Personal Care,5,1238
+1113,2023-11-23,Hyderabad,Wheat Flour,Groceries,4,1730
+1114,2023-09-09,Mumbai,Oil,Groceries,4,1143
+1115,2023-12-12,Mumbai,Oil,Groceries,3,763
+1116,2023-05-21,Delhi,Mouse,Electronics,3,222
+1117,2023-11-13,Hyderabad,Jeans,Clothing,2,1733
+1118,2023-07-09,Hyderabad,Headphones,Electronics,3,397
+1119,2023-11-08,Hyderabad,Charger,Electronics,1,1482
+1120,2023-06-22,Chennai,Shampoo,Personal Care,2,1629
+1121,2023-08-01,Mumbai,Sugar,Groceries,5,129
+1122,2023-05-27,Bangalore,T-Shirt,Clothing,4,1300
+1123,2023-01-14,Hyderabad,Wheat Flour,Groceries,1,1378
+1124,2023-01-12,Delhi,Wheat Flour,Groceries,3,705
+1125,2023-06-05,Chennai,Dress,Clothing,4,1481
+1126,2023-03-31,Delhi,Jeans,Clothing,4,725
+1127,2023-12-23,Hyderabad,Jeans,Clothing,4,781
+1128,2023-05-25,Hyderabad,Dress,Clothing,3,551
+1129,2023-08-08,Chennai,Rice,Groceries,4,510
+1130,2023-03-23,Mumbai,Wheat Flour,Groceries,3,1326
+1131,2023-01-10,Delhi,T-Shirt,Clothing,1,499
+1132,2023-10-16,Hyderabad,Headphones,Electronics,5,1192
+1133,2023-12-07,Delhi,Face Wash,Personal Care,1,1852
+1134,2023-06-26,Chennai,Headphones,Electronics,3,844
+1135,2023-11-07,Bangalore,Wheat Flour,Groceries,1,1172
+1136,2023-09-16,Chennai,Rice,Groceries,5,1943
+1137,2023-07-21,Delhi,Headphones,Electronics,5,726
+1138,2023-01-01,Mumbai,Headphones,Electronics,5,1151
+1139,2023-10-15,Delhi,Rice,Groceries,4,1519
+1140,2023-06-11,Mumbai,Jacket,Clothing,2,299
+1141,2023-08-24,Chennai,Mouse,Electronics,4,1127
+1142,2023-04-22,Chennai,Soap,Personal Care,3,1898
+1143,2023-04-13,Bangalore,Wheat Flour,Groceries,2,124
+1144,2023-12-04,Mumbai,Soap,Personal Care,2,147
+1145,2023-09-06,Hyderabad,Keyboard,Electronics,2,1381
+1146,2023-09-04,Delhi,Jacket,Clothing,4,591
+1147,2023-05-18,Hyderabad,Headphones,Electronics,5,846
+1148,2023-03-10,Delhi,Shampoo,Personal Care,4,1925
+1149,2023-05-06,Mumbai,Shampoo,Personal Care,2,254
+1150,2023-04-21,Hyderabad,Charger,Electronics,3,1956
+1151,2023-01-08,Bangalore,Keyboard,Electronics,3,1447
+1152,2023-12-18,Mumbai,Dress,Clothing,1,1268
+1153,2023-05-02,Mumbai,Headphones,Electronics,2,110
+1154,2023-04-02,Delhi,Headphones,Electronics,5,1539
+1155,2023-01-01,Chennai,Wheat Flour,Groceries,5,887
+1156,2023-02-03,Hyderabad,Oil,Groceries,2,1119
+1157,2023-03-14,Delhi,Soap,Personal Care,5,1996
+1158,2023-08-27,Mumbai,Sugar,Groceries,1,263
+1159,2023-01-26,Bangalore,Charger,Electronics,5,386
+1160,2023-09-10,Bangalore,Oil,Groceries,1,1940
+1161,2023-03-19,Delhi,Keyboard,Electronics,2,77
+1162,2023-01-07,Mumbai,Wheat Flour,Groceries,3,1385
+1163,2023-10-01,Delhi,Keyboard,Electronics,3,1824
+1164,2023-07-11,Hyderabad,Toothpaste,Personal Care,3,1088
+1165,2023-02-08,Hyderabad,Headphones,Electronics,4,763
+1166,2023-10-27,Hyderabad,Sugar,Groceries,2,175
+1167,2023-03-09,Delhi,Rice,Groceries,4,74
+1168,2023-04-21,Bangalore,Headphones,Electronics,5,1219
+1169,2023-09-21,Hyderabad,Mouse,Electronics,2,672
+1170,2023-04-11,Bangalore,Jacket,Clothing,2,474
+1171,2023-11-11,Chennai,Face Wash,Personal Care,2,1516
+1172,2023-05-30,Chennai,Shampoo,Personal Care,1,1362
+1173,2023-11-27,Hyderabad,Soap,Personal Care,4,1423
+1174,2023-02-09,Chennai,Keyboard,Electronics,3,592
+1175,2023-08-08,Mumbai,Dress,Clothing,2,517
+1176,2023-03-03,Hyderabad,Jacket,Clothing,1,1679
+1177,2023-01-26,Mumbai,Toothpaste,Personal Care,3,1465
+1178,2023-04-28,Bangalore,Oil,Groceries,5,375
+1179,2023-04-23,Bangalore,Charger,Electronics,1,581
+1180,2023-11-16,Chennai,Headphones,Electronics,2,703
+1181,2023-09-16,Hyderabad,Toothpaste,Personal Care,4,894
+1182,2023-05-18,Bangalore,Soap,Personal Care,2,310
+1183,2023-11-17,Chennai,Shampoo,Personal Care,2,1669
+1184,2023-02-07,Mumbai,Rice,Groceries,1,960
+1185,2023-11-14,Bangalore,Toothpaste,Personal Care,1,1654
+1186,2023-05-17,Delhi,Jeans,Clothing,5,425
+1187,2023-10-23,Bangalore,Jacket,Clothing,3,562
+1188,2023-08-17,Bangalore,T-Shirt,Clothing,3,922
+1189,2023-01-05,Mumbai,Toothpaste,Personal Care,5,1238
+1190,2023-05-12,Hyderabad,Mouse,Electronics,2,623
+1191,2023-10-23,Mumbai,Wheat Flour,Groceries,1,451
+1192,2023-03-04,Hyderabad,Wheat Flour,Groceries,1,1096
+1193,2023-11-05,Mumbai,Rice,Groceries,1,1056
+1194,2023-06-28,Delhi,Keyboard,Electronics,3,440
+1195,2023-08-19,Mumbai,Dress,Clothing,5,1362
+1196,2023-10-16,Bangalore,T-Shirt,Clothing,1,1170
+1197,2023-05-03,Delhi,Soap,Personal Care,2,566
+1198,2023-10-30,Bangalore,Wheat Flour,Groceries,5,1232
+1199,2023-01-15,Chennai,Oil,Groceries,4,1769
+1200,2023-11-20,Bangalore,T-Shirt,Clothing,5,96
+1201,2023-04-25,Mumbai,Wheat Flour,Groceries,3,144
+1202,2023-10-10,Chennai,Dress,Clothing,2,1884
+1203,2023-02-07,Delhi,Jacket,Clothing,2,921
+1204,2023-05-21,Delhi,Toothpaste,Personal Care,4,267
+1205,2023-12-22,Bangalore,Rice,Groceries,4,732
+1206,2023-05-07,Delhi,Oil,Groceries,5,1913
+1207,2023-02-20,Chennai,Oil,Groceries,2,1978
+1208,2023-09-24,Hyderabad,Face Wash,Personal Care,1,1799
+1209,2023-04-20,Bangalore,Shampoo,Personal Care,5,1419
+1210,2023-11-15,Mumbai,Toothpaste,Personal Care,1,1074
+1211,2023-11-05,Hyderabad,Jacket,Clothing,5,1504
+1212,2023-06-03,Hyderabad,Face Wash,Personal Care,1,166
+1213,2023-03-31,Mumbai,Keyboard,Electronics,4,586
+1214,2023-12-13,Hyderabad,Soap,Personal Care,2,524
+1215,2023-09-08,Mumbai,Jacket,Clothing,3,925
+1216,2023-07-17,Chennai,Face Wash,Personal Care,1,1253
+1217,2023-03-04,Mumbai,T-Shirt,Clothing,1,334
+1218,2023-02-18,Hyderabad,Soap,Personal Care,4,1955
+1219,2023-04-28,Bangalore,T-Shirt,Clothing,1,197
+1220,2023-09-14,Chennai,Headphones,Electronics,1,376
+1221,2023-07-30,Chennai,Toothpaste,Personal Care,3,1964
+1222,2023-05-24,Mumbai,Rice,Groceries,5,335
+1223,2023-07-13,Bangalore,Shampoo,Personal Care,3,1248
+1224,2023-05-12,Hyderabad,Wheat Flour,Groceries,3,880
+1225,2023-09-23,Delhi,T-Shirt,Clothing,3,849
+1226,2023-03-28,Bangalore,Mouse,Electronics,2,1453
+1227,2023-11-17,Hyderabad,Jeans,Clothing,5,1081
+1228,2023-11-24,Hyderabad,Keyboard,Electronics,3,1840
+1229,2023-04-07,Bangalore,Headphones,Electronics,3,1124
+1230,2023-04-06,Mumbai,Charger,Electronics,2,1876
+1231,2023-07-01,Chennai,Dress,Clothing,4,214
+1232,2023-11-26,Hyderabad,Toothpaste,Personal Care,2,56
+1233,2023-02-05,Chennai,Headphones,Electronics,3,1697
+1234,2023-10-30,Chennai,Jeans,Clothing,2,1970
+1235,2023-07-14,Bangalore,Jacket,Clothing,2,1072
+1236,2023-09-13,Hyderabad,T-Shirt,Clothing,5,983
+1237,2023-12-08,Bangalore,Shampoo,Personal Care,4,1940
+1238,2023-04-30,Mumbai,T-Shirt,Clothing,2,1231
+1239,2023-04-25,Hyderabad,Toothpaste,Personal Care,1,1955
+1240,2023-10-08,Hyderabad,Shampoo,Personal Care,2,286
+1241,2023-01-04,Delhi,Soap,Personal Care,3,543
+1242,2023-08-03,Chennai,Shampoo,Personal Care,5,659
+1243,2023-12-07,Delhi,Mouse,Electronics,2,177
+1244,2023-06-14,Hyderabad,T-Shirt,Clothing,2,1090
+1245,2023-04-27,Delhi,Soap,Personal Care,4,1672
+1246,2023-10-14,Mumbai,Shampoo,Personal Care,3,1898
+1247,2023-11-05,Delhi,Jeans,Clothing,4,1822
+1248,2023-07-09,Delhi,Rice,Groceries,2,1030
+1249,2023-11-06,Mumbai,Face Wash,Personal Care,2,1069
+1250,2023-10-09,Chennai,Sugar,Groceries,5,1365
+1251,2023-06-13,Hyderabad,Sugar,Groceries,3,1585
+1252,2023-04-08,Chennai,Keyboard,Electronics,3,1383
+1253,2023-08-27,Bangalore,T-Shirt,Clothing,2,1621
+1254,2023-12-03,Mumbai,Keyboard,Electronics,4,1564
+1255,2023-06-03,Delhi,Sugar,Groceries,2,250
+1256,2023-01-17,Hyderabad,Rice,Groceries,1,345
+1257,2023-02-11,Hyderabad,Rice,Groceries,3,1689
+1258,2023-08-17,Bangalore,Keyboard,Electronics,3,1571
+1259,2023-10-02,Chennai,Jacket,Clothing,2,573
+1260,2023-01-17,Delhi,Jacket,Clothing,3,866
+1261,2023-01-12,Mumbai,Sugar,Groceries,1,1888
+1262,2023-08-03,Chennai,Jacket,Clothing,5,1154
+1263,2023-03-30,Bangalore,Face Wash,Personal Care,1,515
+1264,2023-12-31,Delhi,Keyboard,Electronics,2,538
+1265,2023-07-18,Hyderabad,Charger,Electronics,2,1089
+1266,2023-09-07,Chennai,Mouse,Electronics,5,1159
+1267,2023-11-24,Delhi,Headphones,Electronics,3,737
+1268,2023-08-11,Bangalore,Keyboard,Electronics,5,643
+1269,2023-04-13,Hyderabad,Keyboard,Electronics,2,1516
+1270,2023-07-07,Chennai,Toothpaste,Personal Care,3,669
+1271,2023-07-02,Bangalore,Toothpaste,Personal Care,5,1244
+1272,2023-12-15,Hyderabad,Keyboard,Electronics,1,1589
+1273,2023-04-18,Delhi,Wheat Flour,Groceries,1,65
+1274,2023-09-08,Chennai,Keyboard,Electronics,2,595
+1275,2023-02-08,Bangalore,Wheat Flour,Groceries,3,1964
+1276,2023-11-14,Chennai,Wheat Flour,Groceries,1,526
+1277,2023-09-23,Hyderabad,T-Shirt,Clothing,4,1312
+1278,2023-03-06,Hyderabad,Keyboard,Electronics,4,438
+1279,2023-05-26,Chennai,Headphones,Electronics,2,373
+1280,2023-03-14,Hyderabad,Oil,Groceries,1,998
+1281,2023-07-06,Delhi,Oil,Groceries,4,1213
+1282,2023-07-17,Mumbai,Rice,Groceries,5,988
+1283,2023-07-18,Bangalore,Shampoo,Personal Care,2,1226
+1284,2023-03-04,Chennai,Jacket,Clothing,4,1934
+1285,2023-08-14,Hyderabad,Headphones,Electronics,2,1180
+1286,2023-09-16,Chennai,Shampoo,Personal Care,1,555
+1287,2023-04-09,Bangalore,Wheat Flour,Groceries,1,1594
+1288,2023-06-27,Delhi,Shampoo,Personal Care,5,1964
+1289,2023-08-15,Chennai,Shampoo,Personal Care,3,209
+1290,2023-03-09,Chennai,T-Shirt,Clothing,1,378
+1291,2023-11-19,Mumbai,Toothpaste,Personal Care,1,1001
+1292,2023-08-14,Bangalore,T-Shirt,Clothing,1,1268
+1293,2023-08-14,Bangalore,Shampoo,Personal Care,1,1334
+1294,2023-06-25,Delhi,Mouse,Electronics,3,1974
+1295,2023-06-25,Chennai,Soap,Personal Care,5,1389
+1296,2023-04-24,Chennai,T-Shirt,Clothing,5,642
+1297,2023-07-05,Mumbai,Jeans,Clothing,5,164
+1298,2023-12-13,Chennai,Dress,Clothing,2,89
+1299,2023-06-17,Bangalore,Rice,Groceries,3,385
+1300,2023-06-18,Chennai,Sugar,Groceries,3,865
+1301,2023-06-19,Bangalore,Headphones,Electronics,1,1766
+1302,2023-05-13,Mumbai,Keyboard,Electronics,4,56
+1303,2023-01-23,Delhi,Wheat Flour,Groceries,1,1104
+1304,2023-06-07,Delhi,Face Wash,Personal Care,3,1510
+1305,2023-10-22,Delhi,Jeans,Clothing,5,1597
+1306,2023-08-21,Hyderabad,T-Shirt,Clothing,3,1186
+1307,2023-12-10,Chennai,Jacket,Clothing,2,749
+1308,2023-03-15,Hyderabad,Charger,Electronics,3,463
+1309,2023-12-01,Chennai,Jeans,Clothing,4,621
+1310,2023-12-18,Bangalore,Wheat Flour,Groceries,4,965
+1311,2023-01-17,Bangalore,Face Wash,Personal Care,3,241
+1312,2023-07-12,Delhi,Shampoo,Personal Care,2,935
+1313,2023-09-27,Chennai,Jacket,Clothing,2,355
+1314,2023-01-07,Chennai,Dress,Clothing,3,1300
+1315,2023-02-27,Delhi,Headphones,Electronics,3,508
+1316,2023-01-04,Hyderabad,Soap,Personal Care,2,1358
+1317,2023-09-28,Chennai,Headphones,Electronics,1,88
+1318,2023-05-10,Bangalore,Sugar,Groceries,4,1873
+1319,2023-12-03,Bangalore,Toothpaste,Personal Care,3,1780
+1320,2023-10-30,Chennai,Dress,Clothing,5,70
+1321,2023-09-14,Delhi,Charger,Electronics,3,1526
+1322,2023-11-16,Hyderabad,Jeans,Clothing,2,1236
+1323,2023-09-28,Bangalore,Oil,Groceries,4,1859
+1324,2023-05-25,Chennai,Jacket,Clothing,4,479
+1325,2023-02-19,Bangalore,Oil,Groceries,3,1759
+1326,2023-06-30,Bangalore,Keyboard,Electronics,5,1009
+1327,2023-01-15,Hyderabad,Toothpaste,Personal Care,4,1631
+1328,2023-08-24,Bangalore,Soap,Personal Care,1,1967
+1329,2023-11-15,Chennai,T-Shirt,Clothing,1,1005
+1330,2023-07-24,Hyderabad,Wheat Flour,Groceries,3,1137
+1331,2023-12-04,Mumbai,T-Shirt,Clothing,2,1393
+1332,2023-09-24,Mumbai,Rice,Groceries,1,151
+1333,2023-02-15,Bangalore,T-Shirt,Clothing,1,637
+1334,2023-08-30,Bangalore,T-Shirt,Clothing,2,985
+1335,2023-08-21,Chennai,Wheat Flour,Groceries,1,850
+1336,2023-06-03,Delhi,Shampoo,Personal Care,5,165
+1337,2023-05-02,Delhi,Toothpaste,Personal Care,2,1759
+1338,2023-11-01,Mumbai,Mouse,Electronics,2,936
+1339,2023-01-09,Hyderabad,Sugar,Groceries,3,1975
+1340,2023-07-23,Delhi,Keyboard,Electronics,1,1443
+1341,2023-04-21,Mumbai,Jeans,Clothing,4,1391
+1342,2023-07-27,Bangalore,Keyboard,Electronics,3,1157
+1343,2023-01-03,Hyderabad,Soap,Personal Care,2,944
+1344,2023-01-12,Bangalore,Jeans,Clothing,3,1027
+1345,2023-05-02,Mumbai,Rice,Groceries,5,1316
+1346,2023-08-09,Chennai,Mouse,Electronics,4,734
+1347,2023-03-23,Delhi,Charger,Electronics,3,1885
+1348,2023-11-08,Hyderabad,Mouse,Electronics,5,1425
+1349,2023-08-31,Mumbai,Keyboard,Electronics,4,1787
+1350,2023-11-28,Hyderabad,Rice,Groceries,1,952
+1351,2023-01-24,Bangalore,Shampoo,Personal Care,2,1006
+1352,2023-01-20,Bangalore,Oil,Groceries,4,1437
+1353,2023-04-06,Hyderabad,Jeans,Clothing,1,996
+1354,2023-08-16,Delhi,Jeans,Clothing,5,915
+1355,2023-10-22,Delhi,Mouse,Electronics,4,1847
+1356,2023-05-05,Bangalore,Keyboard,Electronics,2,1319
+1357,2023-01-21,Hyderabad,Headphones,Electronics,2,1625
+1358,2023-03-28,Delhi,Mouse,Electronics,4,801
+1359,2023-10-20,Chennai,Jeans,Clothing,2,424
+1360,2023-11-12,Chennai,Shampoo,Personal Care,1,367
+1361,2023-05-10,Hyderabad,Mouse,Electronics,1,1157
+1362,2023-03-07,Mumbai,Headphones,Electronics,1,77
+1363,2023-06-13,Chennai,Rice,Groceries,1,1497
+1364,2023-07-14,Delhi,Keyboard,Electronics,3,1083
+1365,2023-12-27,Hyderabad,Wheat Flour,Groceries,4,911
+1366,2023-01-01,Hyderabad,Oil,Groceries,3,1021
+1367,2023-05-01,Mumbai,Jeans,Clothing,4,1357
+1368,2023-06-14,Hyderabad,Sugar,Groceries,5,1277
+1369,2023-06-05,Bangalore,Oil,Groceries,4,1897
+1370,2023-11-30,Delhi,Headphones,Electronics,4,1955
+1371,2023-10-09,Chennai,Sugar,Groceries,5,1093
+1372,2023-09-02,Mumbai,Sugar,Groceries,3,247
+1373,2023-07-25,Bangalore,Rice,Groceries,1,740
+1374,2023-08-04,Mumbai,Face Wash,Personal Care,5,291
+1375,2023-11-02,Chennai,Mouse,Electronics,2,266
+1376,2023-10-21,Bangalore,Sugar,Groceries,3,1251
+1377,2023-12-02,Delhi,Charger,Electronics,5,357
+1378,2023-05-09,Chennai,Face Wash,Personal Care,2,1414
+1379,2023-03-27,Delhi,Jeans,Clothing,5,1568
+1380,2023-04-24,Delhi,Sugar,Groceries,2,476
+1381,2023-11-24,Hyderabad,Wheat Flour,Groceries,1,637
+1382,2023-05-27,Chennai,Face Wash,Personal Care,1,1074
+1383,2023-08-08,Delhi,T-Shirt,Clothing,1,1675
+1384,2023-06-18,Hyderabad,Face Wash,Personal Care,1,1234
+1385,2023-03-18,Hyderabad,T-Shirt,Clothing,1,1830
+1386,2023-04-12,Bangalore,Charger,Electronics,2,1454
+1387,2023-10-06,Mumbai,Toothpaste,Personal Care,2,1667
+1388,2023-11-06,Hyderabad,Sugar,Groceries,1,1417
+1389,2023-07-18,Chennai,Sugar,Groceries,1,1149
+1390,2023-11-01,Hyderabad,Charger,Electronics,5,1546
+1391,2023-12-21,Delhi,Charger,Electronics,2,1340
+1392,2023-03-26,Delhi,Soap,Personal Care,1,1076
+1393,2023-04-27,Chennai,Dress,Clothing,2,503
+1394,2023-10-31,Chennai,Shampoo,Personal Care,4,1206
+1395,2023-02-12,Delhi,Charger,Electronics,4,832
+1396,2023-01-21,Mumbai,Jacket,Clothing,3,1054
+1397,2023-10-08,Bangalore,Charger,Electronics,5,1197
+1398,2023-05-21,Mumbai,Keyboard,Electronics,4,838
+1399,2023-02-21,Mumbai,Soap,Personal Care,5,1013
+1400,2023-05-16,Delhi,Sugar,Groceries,4,340
+1401,2023-03-18,Bangalore,Jeans,Clothing,2,51
+1402,2023-12-17,Bangalore,Shampoo,Personal Care,3,1336
+1403,2023-03-12,Hyderabad,Toothpaste,Personal Care,5,208
+1404,2023-02-05,Bangalore,Shampoo,Personal Care,2,1001
+1405,2023-06-22,Delhi,Jeans,Clothing,1,1245
+1406,2023-04-28,Chennai,Keyboard,Electronics,5,936
+1407,2023-01-09,Delhi,Face Wash,Personal Care,1,1099
+1408,2023-06-19,Hyderabad,Jeans,Clothing,1,1710
+1409,2023-02-19,Mumbai,Toothpaste,Personal Care,5,1653
+1410,2023-05-26,Mumbai,Dress,Clothing,2,906
+1411,2023-08-30,Chennai,Jeans,Clothing,1,1512
+1412,2023-08-14,Hyderabad,Headphones,Electronics,3,1181
+1413,2023-10-20,Mumbai,Headphones,Electronics,1,711
+1414,2023-03-19,Chennai,Jacket,Clothing,3,699
+1415,2023-11-16,Mumbai,Rice,Groceries,1,819
+1416,2023-02-11,Chennai,Headphones,Electronics,2,1908
+1417,2023-10-07,Bangalore,Headphones,Electronics,1,508
+1418,2023-04-12,Delhi,Toothpaste,Personal Care,4,1291
+1419,2023-02-05,Chennai,Jacket,Clothing,5,1055
+1420,2023-05-16,Hyderabad,Oil,Groceries,3,122
+1421,2023-07-15,Chennai,Mouse,Electronics,1,1048
+1422,2023-01-05,Bangalore,Oil,Groceries,2,1005
+1423,2023-08-18,Delhi,Charger,Electronics,5,825
+1424,2023-02-27,Mumbai,Mouse,Electronics,4,430
+1425,2023-06-21,Delhi,Soap,Personal Care,2,776
+1426,2023-10-13,Bangalore,Shampoo,Personal Care,3,403
+1427,2023-02-05,Chennai,Jeans,Clothing,4,1515
+1428,2023-07-27,Delhi,Rice,Groceries,1,360
+1429,2023-01-12,Hyderabad,Soap,Personal Care,1,104
+1430,2023-05-24,Chennai,Dress,Clothing,4,564
+1431,2023-04-28,Chennai,Charger,Electronics,3,1177
+1432,2023-05-01,Chennai,Dress,Clothing,4,370
+1433,2023-08-19,Hyderabad,Jeans,Clothing,2,505
+1434,2023-08-14,Chennai,Oil,Groceries,4,1623
+1435,2023-04-24,Chennai,Face Wash,Personal Care,1,1736
+1436,2023-09-06,Hyderabad,Shampoo,Personal Care,5,819
+1437,2023-07-09,Delhi,Sugar,Groceries,3,1253
+1438,2023-05-23,Bangalore,Jeans,Clothing,3,455
+1439,2023-08-27,Hyderabad,Oil,Groceries,2,61
+1440,2023-10-18,Delhi,Soap,Personal Care,2,1502
+1441,2023-01-07,Bangalore,Soap,Personal Care,3,1921
+1442,2023-03-07,Mumbai,Shampoo,Personal Care,5,1748
+1443,2023-10-03,Delhi,Toothpaste,Personal Care,2,1279
+1444,2023-09-10,Hyderabad,Jeans,Clothing,1,842
+1445,2023-12-02,Chennai,Jacket,Clothing,1,1183
+1446,2023-01-25,Chennai,Jacket,Clothing,3,951
+1447,2023-01-25,Bangalore,Wheat Flour,Groceries,5,1043
+1448,2023-05-08,Bangalore,Oil,Groceries,4,1873
+1449,2023-11-12,Chennai,Sugar,Groceries,4,1731
+1450,2023-05-31,Mumbai,Mouse,Electronics,2,1133
+1451,2023-09-23,Hyderabad,Keyboard,Electronics,5,1540
+1452,2023-09-10,Hyderabad,Soap,Personal Care,3,739
+1453,2023-05-29,Hyderabad,Keyboard,Electronics,1,1172
+1454,2023-03-21,Bangalore,Jeans,Clothing,3,312
+1455,2023-02-09,Hyderabad,Oil,Groceries,4,1688
+1456,2023-08-09,Bangalore,Sugar,Groceries,4,869
+1457,2023-04-26,Chennai,Dress,Clothing,2,1136
+1458,2023-01-14,Chennai,Keyboard,Electronics,3,141
+1459,2023-07-02,Delhi,Wheat Flour,Groceries,5,559
+1460,2023-08-18,Chennai,Toothpaste,Personal Care,5,295
+1461,2023-03-06,Chennai,Toothpaste,Personal Care,2,1961
+1462,2023-08-01,Chennai,Wheat Flour,Groceries,2,542
+1463,2023-06-13,Hyderabad,Shampoo,Personal Care,5,721
+1464,2023-07-10,Chennai,Headphones,Electronics,4,444
+1465,2023-07-15,Delhi,Dress,Clothing,5,1867
+1466,2023-08-20,Mumbai,Dress,Clothing,4,643
+1467,2023-02-11,Chennai,Rice,Groceries,4,1998
+1468,2023-07-11,Hyderabad,Shampoo,Personal Care,1,154
+1469,2023-05-10,Bangalore,T-Shirt,Clothing,1,178
+1470,2023-08-30,Delhi,T-Shirt,Clothing,1,1083
+1471,2023-07-22,Delhi,Dress,Clothing,5,1357
+1472,2023-12-09,Chennai,Jacket,Clothing,1,128
+1473,2023-03-28,Chennai,Headphones,Electronics,4,498
+1474,2023-02-12,Hyderabad,T-Shirt,Clothing,1,136
+1475,2023-01-17,Chennai,Sugar,Groceries,3,713
+1476,2023-08-16,Mumbai,T-Shirt,Clothing,2,415
+1477,2023-01-28,Mumbai,Jacket,Clothing,3,1464
+1478,2023-12-16,Delhi,Mouse,Electronics,5,822
+1479,2023-08-11,Hyderabad,Toothpaste,Personal Care,4,1410
+1480,2023-02-18,Bangalore,Wheat Flour,Groceries,2,1012
+1481,2023-08-05,Delhi,Face Wash,Personal Care,1,218
+1482,2023-05-29,Bangalore,Mouse,Electronics,2,1851
+1483,2023-09-26,Chennai,Jacket,Clothing,2,423
+1484,2023-01-11,Delhi,Jacket,Clothing,4,1299
+1485,2023-06-02,Mumbai,Headphones,Electronics,2,232
+1486,2023-04-24,Bangalore,Face Wash,Personal Care,2,1034
+1487,2023-10-15,Mumbai,Face Wash,Personal Care,5,1245
+1488,2023-02-01,Hyderabad,Shampoo,Personal Care,5,171
+1489,2023-05-29,Bangalore,T-Shirt,Clothing,2,198
+1490,2023-01-22,Bangalore,Jacket,Clothing,3,1418
+1491,2023-01-29,Chennai,Rice,Groceries,2,819
+1492,2023-04-05,Mumbai,Charger,Electronics,3,1635
+1493,2023-10-05,Mumbai,Charger,Electronics,4,510
+1494,2023-01-03,Mumbai,Rice,Groceries,1,745
+1495,2023-10-08,Chennai,Headphones,Electronics,4,1440
+1496,2023-05-24,Hyderabad,Charger,Electronics,2,1259
+1497,2023-04-14,Mumbai,T-Shirt,Clothing,3,498
+1498,2023-01-10,Chennai,Dress,Clothing,2,1939
+1499,2023-03-07,Hyderabad,Jeans,Clothing,3,972
+1500,2023-03-27,Delhi,T-Shirt,Clothing,1,549
+1501,2023-01-14,Hyderabad,Soap,Personal Care,4,258
+1502,2023-03-16,Mumbai,Shampoo,Personal Care,1,1093
+1503,2023-07-05,Bangalore,Keyboard,Electronics,3,1174
+1504,2023-01-24,Mumbai,Headphones,Electronics,4,1093
+1505,2023-12-25,Chennai,Shampoo,Personal Care,5,871
+1506,2023-02-26,Chennai,Soap,Personal Care,4,237
+1507,2023-01-14,Mumbai,T-Shirt,Clothing,4,1294
+1508,2023-09-11,Delhi,T-Shirt,Clothing,2,1128
+1509,2023-07-07,Bangalore,Soap,Personal Care,3,208
+1510,2023-06-01,Chennai,Headphones,Electronics,3,455
+1511,2023-04-27,Bangalore,Jeans,Clothing,2,1047
+1512,2023-12-16,Hyderabad,Jacket,Clothing,5,789
+1513,2023-04-26,Hyderabad,Headphones,Electronics,2,880
+1514,2023-11-09,Bangalore,Charger,Electronics,3,1376
+1515,2023-07-17,Bangalore,Shampoo,Personal Care,1,450
+1516,2023-07-17,Bangalore,Dress,Clothing,3,448
+1517,2023-11-21,Hyderabad,Keyboard,Electronics,1,651
+1518,2023-09-16,Chennai,T-Shirt,Clothing,2,99
+1519,2023-12-03,Mumbai,Headphones,Electronics,5,759
+1520,2023-02-04,Delhi,Sugar,Groceries,5,1988
+1521,2023-02-18,Chennai,Headphones,Electronics,5,1905
+1522,2023-03-11,Delhi,Face Wash,Personal Care,5,405
+1523,2023-05-09,Hyderabad,Jeans,Clothing,2,980
+1524,2023-06-23,Bangalore,Jeans,Clothing,1,1255
+1525,2023-03-25,Hyderabad,Dress,Clothing,1,1616
+1526,2023-12-08,Bangalore,T-Shirt,Clothing,4,667
+1527,2023-04-30,Delhi,Keyboard,Electronics,4,319
+1528,2023-07-24,Bangalore,Dress,Clothing,2,1802
+1529,2023-04-17,Bangalore,Rice,Groceries,4,1769
+1530,2023-01-21,Bangalore,Soap,Personal Care,3,1514
+1531,2023-03-11,Delhi,Shampoo,Personal Care,3,1592
+1532,2023-05-23,Chennai,Dress,Clothing,3,1221
+1533,2023-05-22,Hyderabad,Soap,Personal Care,4,1961
+1534,2023-03-10,Mumbai,Wheat Flour,Groceries,5,1155
+1535,2023-11-01,Mumbai,Mouse,Electronics,5,1033
+1536,2023-06-10,Delhi,Headphones,Electronics,5,433
+1537,2023-11-23,Hyderabad,Oil,Groceries,2,1066
+1538,2023-12-20,Bangalore,Oil,Groceries,5,622
+1539,2023-03-27,Hyderabad,Toothpaste,Personal Care,1,472
+1540,2023-11-26,Chennai,Wheat Flour,Groceries,2,1650
+1541,2023-11-26,Delhi,Wheat Flour,Groceries,1,1139
+1542,2023-06-16,Bangalore,Dress,Clothing,3,686
+1543,2023-05-18,Mumbai,Jacket,Clothing,4,620
+1544,2023-02-01,Chennai,Jacket,Clothing,1,1009
+1545,2023-08-02,Chennai,Jeans,Clothing,4,1951
+1546,2023-09-27,Mumbai,Mouse,Electronics,4,653
+1547,2023-01-26,Hyderabad,Rice,Groceries,2,1869
+1548,2023-09-11,Mumbai,Mouse,Electronics,1,1833
+1549,2023-08-15,Bangalore,Dress,Clothing,1,1627
+1550,2023-07-16,Mumbai,Headphones,Electronics,3,1251
+1551,2023-01-08,Bangalore,Charger,Electronics,4,1659
+1552,2023-03-26,Hyderabad,T-Shirt,Clothing,4,534
+1553,2023-11-12,Bangalore,Keyboard,Electronics,2,603
+1554,2023-12-02,Mumbai,Face Wash,Personal Care,2,824
+1555,2023-12-29,Hyderabad,Sugar,Groceries,3,1699
+1556,2023-06-25,Mumbai,T-Shirt,Clothing,5,977
+1557,2023-05-17,Bangalore,Oil,Groceries,3,593
+1558,2023-04-19,Chennai,Mouse,Electronics,1,624
+1559,2023-09-17,Bangalore,Wheat Flour,Groceries,5,1235
+1560,2023-05-08,Mumbai,Soap,Personal Care,3,296
+1561,2023-07-15,Hyderabad,Rice,Groceries,3,402
+1562,2023-05-13,Mumbai,Jeans,Clothing,2,1455
+1563,2023-05-14,Mumbai,Oil,Groceries,5,314
+1564,2023-12-30,Bangalore,Dress,Clothing,1,1468
+1565,2023-05-11,Bangalore,Rice,Groceries,2,1031
+1566,2023-06-05,Delhi,Jeans,Clothing,2,1350
+1567,2023-06-29,Delhi,Shampoo,Personal Care,5,1748
+1568,2023-03-16,Hyderabad,Sugar,Groceries,2,1387
+1569,2023-04-18,Mumbai,Charger,Electronics,1,886
+1570,2023-10-16,Bangalore,Toothpaste,Personal Care,3,980
+1571,2023-09-05,Bangalore,Oil,Groceries,2,1139
+1572,2023-05-04,Hyderabad,Keyboard,Electronics,1,1733
+1573,2023-10-30,Chennai,Jacket,Clothing,3,565
+1574,2023-10-29,Bangalore,Headphones,Electronics,5,998
+1575,2023-02-08,Hyderabad,Face Wash,Personal Care,4,1474
+1576,2023-07-29,Mumbai,Charger,Electronics,5,1280
+1577,2023-04-01,Delhi,Wheat Flour,Groceries,3,268
+1578,2023-11-24,Mumbai,Jeans,Clothing,4,550
+1579,2023-10-08,Delhi,Mouse,Electronics,3,645
+1580,2023-04-20,Mumbai,Toothpaste,Personal Care,1,132
+1581,2023-10-11,Bangalore,Mouse,Electronics,3,1786
+1582,2023-05-04,Hyderabad,Sugar,Groceries,1,812
+1583,2023-04-30,Chennai,Jacket,Clothing,4,447
+1584,2023-09-22,Hyderabad,Oil,Groceries,1,335
+1585,2023-07-22,Chennai,Dress,Clothing,1,1727
+1586,2023-08-10,Hyderabad,Headphones,Electronics,3,383
+1587,2023-09-21,Delhi,Jacket,Clothing,4,1037
+1588,2023-05-07,Chennai,Rice,Groceries,1,1705
+1589,2023-09-24,Delhi,Shampoo,Personal Care,4,1108
+1590,2023-10-31,Bangalore,Sugar,Groceries,5,1398
+1591,2023-07-20,Chennai,Sugar,Groceries,4,1062
+1592,2023-08-04,Hyderabad,Oil,Groceries,3,1026
+1593,2023-03-17,Hyderabad,T-Shirt,Clothing,4,487
+1594,2023-08-20,Chennai,Mouse,Electronics,4,654
+1595,2023-06-06,Mumbai,Mouse,Electronics,4,554
+1596,2023-09-17,Bangalore,Jacket,Clothing,4,589
+1597,2023-06-11,Mumbai,Sugar,Groceries,4,243
+1598,2023-03-28,Hyderabad,Headphones,Electronics,1,1657
+1599,2023-09-19,Delhi,Shampoo,Personal Care,5,829
+1600,2023-12-28,Hyderabad,Charger,Electronics,3,1453
+1601,2023-12-21,Mumbai,Rice,Groceries,5,802
+1602,2023-06-26,Chennai,T-Shirt,Clothing,4,1897
+1603,2023-07-09,Mumbai,Wheat Flour,Groceries,1,1375
+1604,2023-10-22,Chennai,Dress,Clothing,1,651
+1605,2023-11-06,Hyderabad,Rice,Groceries,2,1436
+1606,2023-02-10,Hyderabad,Oil,Groceries,5,866
+1607,2023-07-02,Hyderabad,T-Shirt,Clothing,3,1644
+1608,2023-05-27,Mumbai,Headphones,Electronics,3,1567
+1609,2023-06-17,Bangalore,Sugar,Groceries,5,50
+1610,2023-09-25,Chennai,Charger,Electronics,5,1182
+1611,2023-04-13,Bangalore,T-Shirt,Clothing,5,651
+1612,2023-06-23,Chennai,Shampoo,Personal Care,1,908
+1613,2023-12-06,Delhi,Keyboard,Electronics,1,1760
+1614,2023-06-10,Bangalore,Soap,Personal Care,4,1039
+1615,2023-03-25,Hyderabad,Shampoo,Personal Care,3,1824
+1616,2023-05-23,Hyderabad,Oil,Groceries,2,1828
+1617,2023-07-21,Delhi,Mouse,Electronics,5,154
+1618,2023-07-29,Mumbai,Keyboard,Electronics,5,1339
+1619,2023-01-28,Mumbai,Shampoo,Personal Care,1,1624
+1620,2023-01-02,Chennai,Jeans,Clothing,3,678
+1621,2023-09-25,Mumbai,Toothpaste,Personal Care,2,1154
+1622,2023-12-23,Chennai,Headphones,Electronics,5,1035
+1623,2023-10-21,Bangalore,Shampoo,Personal Care,1,1352
+1624,2023-04-09,Chennai,Wheat Flour,Groceries,3,1731
+1625,2023-01-30,Bangalore,Headphones,Electronics,5,1707
+1626,2023-06-05,Bangalore,Jeans,Clothing,3,244
+1627,2023-06-09,Delhi,Headphones,Electronics,3,609
+1628,2023-06-16,Delhi,Headphones,Electronics,4,1453
+1629,2023-07-15,Chennai,Dress,Clothing,5,56
+1630,2023-05-28,Mumbai,T-Shirt,Clothing,1,608
+1631,2023-05-06,Mumbai,Wheat Flour,Groceries,4,963
+1632,2023-06-25,Bangalore,Rice,Groceries,5,1465
+1633,2023-04-23,Chennai,Dress,Clothing,1,1104
+1634,2023-03-16,Chennai,Shampoo,Personal Care,3,1652
+1635,2023-12-29,Mumbai,Jeans,Clothing,3,1503
+1636,2023-11-11,Chennai,Toothpaste,Personal Care,2,311
+1637,2023-05-02,Chennai,Headphones,Electronics,2,534
+1638,2023-02-04,Bangalore,Wheat Flour,Groceries,4,1942
+1639,2023-10-12,Chennai,Face Wash,Personal Care,1,418
+1640,2023-04-19,Bangalore,Keyboard,Electronics,4,1986
+1641,2023-06-11,Chennai,Rice,Groceries,1,354
+1642,2023-02-11,Delhi,Shampoo,Personal Care,3,392
+1643,2023-12-07,Bangalore,T-Shirt,Clothing,3,811
+1644,2023-11-20,Mumbai,Oil,Groceries,3,408
+1645,2023-04-21,Delhi,Oil,Groceries,5,532
+1646,2023-09-30,Mumbai,Charger,Electronics,3,558
+1647,2023-09-07,Mumbai,Jeans,Clothing,1,1737
+1648,2023-10-11,Chennai,Sugar,Groceries,5,569
+1649,2023-05-27,Mumbai,Rice,Groceries,4,1959
+1650,2023-06-22,Bangalore,Wheat Flour,Groceries,3,1895
+1651,2023-01-05,Hyderabad,Shampoo,Personal Care,3,1560
+1652,2023-01-12,Hyderabad,Dress,Clothing,1,607
+1653,2023-04-18,Bangalore,Keyboard,Electronics,2,1377
+1654,2023-04-12,Mumbai,Dress,Clothing,2,1301
+1655,2023-07-11,Hyderabad,Wheat Flour,Groceries,3,764
+1656,2023-08-07,Delhi,Mouse,Electronics,1,1764
+1657,2023-12-31,Mumbai,Jacket,Clothing,4,952
+1658,2023-04-26,Chennai,Jacket,Clothing,1,1913
+1659,2023-12-18,Mumbai,Rice,Groceries,1,786
+1660,2023-11-21,Chennai,Mouse,Electronics,3,492
+1661,2023-07-27,Delhi,Mouse,Electronics,5,336
+1662,2023-06-20,Mumbai,Jeans,Clothing,5,1799
+1663,2023-05-06,Chennai,Soap,Personal Care,2,369
+1664,2023-06-01,Mumbai,Dress,Clothing,2,1754
+1665,2023-10-30,Mumbai,Jeans,Clothing,1,1807
+1666,2023-11-23,Mumbai,Mouse,Electronics,2,162
+1667,2023-01-01,Chennai,Oil,Groceries,1,1622
+1668,2023-05-08,Hyderabad,Oil,Groceries,5,237
+1669,2023-07-13,Hyderabad,Headphones,Electronics,4,596
+1670,2023-12-24,Mumbai,Soap,Personal Care,4,463
+1671,2023-07-07,Chennai,Charger,Electronics,3,959
+1672,2023-03-02,Mumbai,Oil,Groceries,2,94
+1673,2023-05-25,Delhi,Mouse,Electronics,2,985
+1674,2023-01-13,Bangalore,Face Wash,Personal Care,4,371
+1675,2023-08-03,Mumbai,Toothpaste,Personal Care,3,953
+1676,2023-11-17,Hyderabad,Shampoo,Personal Care,5,1880
+1677,2023-01-21,Mumbai,Wheat Flour,Groceries,5,830
+1678,2023-08-02,Hyderabad,Sugar,Groceries,1,1354
+1679,2023-02-23,Bangalore,Keyboard,Electronics,2,1083
+1680,2023-06-27,Bangalore,Dress,Clothing,2,1087
+1681,2023-12-01,Bangalore,Face Wash,Personal Care,5,457
+1682,2023-04-29,Delhi,Sugar,Groceries,2,1085
+1683,2023-03-16,Hyderabad,Face Wash,Personal Care,2,1712
+1684,2023-08-29,Delhi,T-Shirt,Clothing,1,1040
+1685,2023-08-02,Hyderabad,Wheat Flour,Groceries,2,1169
+1686,2023-11-21,Bangalore,Charger,Electronics,2,1849
+1687,2023-05-19,Hyderabad,Oil,Groceries,5,717
+1688,2023-06-11,Bangalore,Sugar,Groceries,3,186
+1689,2023-11-03,Chennai,Dress,Clothing,2,960
+1690,2023-07-05,Delhi,Headphones,Electronics,4,740
+1691,2023-04-30,Delhi,Rice,Groceries,4,1802
+1692,2023-08-23,Chennai,Keyboard,Electronics,5,1990
+1693,2023-09-30,Bangalore,Rice,Groceries,4,572
+1694,2023-12-06,Mumbai,Headphones,Electronics,1,582
+1695,2023-04-11,Bangalore,Charger,Electronics,5,859
+1696,2023-05-26,Mumbai,T-Shirt,Clothing,3,1376
+1697,2023-01-13,Delhi,T-Shirt,Clothing,4,1528
+1698,2023-01-16,Hyderabad,Rice,Groceries,4,80
+1699,2023-04-10,Chennai,Wheat Flour,Groceries,3,1895
+1700,2023-08-04,Bangalore,Headphones,Electronics,5,211
+1701,2023-05-29,Bangalore,Toothpaste,Personal Care,4,375
+1702,2023-01-21,Bangalore,Jeans,Clothing,1,405
+1703,2023-02-18,Delhi,Keyboard,Electronics,5,1386
+1704,2023-02-15,Chennai,Oil,Groceries,5,1659
+1705,2023-12-22,Delhi,Wheat Flour,Groceries,2,1922
+1706,2023-04-12,Hyderabad,Headphones,Electronics,3,160
+1707,2023-01-29,Mumbai,Jeans,Clothing,4,1609
+1708,2023-12-12,Hyderabad,Oil,Groceries,2,1261
+1709,2023-06-24,Hyderabad,Jacket,Clothing,4,833
+1710,2023-06-30,Delhi,Dress,Clothing,2,1868
+1711,2023-05-14,Chennai,Keyboard,Electronics,1,1747
+1712,2023-09-01,Hyderabad,Rice,Groceries,2,568
+1713,2023-05-15,Bangalore,Face Wash,Personal Care,3,422
+1714,2023-11-27,Hyderabad,Keyboard,Electronics,1,209
+1715,2023-02-28,Bangalore,Headphones,Electronics,5,1287
+1716,2023-06-06,Delhi,Jacket,Clothing,5,538
+1717,2023-05-04,Bangalore,Face Wash,Personal Care,5,1152
+1718,2023-04-29,Chennai,Face Wash,Personal Care,2,1177
+1719,2023-11-27,Bangalore,Dress,Clothing,4,483
+1720,2023-03-31,Bangalore,Shampoo,Personal Care,1,1644
+1721,2023-01-25,Delhi,Mouse,Electronics,1,75
+1722,2023-06-30,Bangalore,Headphones,Electronics,3,316
+1723,2023-11-17,Hyderabad,Keyboard,Electronics,4,540
+1724,2023-02-16,Hyderabad,Charger,Electronics,4,1642
+1725,2023-01-05,Bangalore,Soap,Personal Care,2,1826
+1726,2023-02-23,Hyderabad,T-Shirt,Clothing,3,297
+1727,2023-01-15,Chennai,Soap,Personal Care,3,1811
+1728,2023-10-21,Delhi,Shampoo,Personal Care,5,1463
+1729,2023-08-10,Mumbai,Soap,Personal Care,5,1296
+1730,2023-08-23,Bangalore,Soap,Personal Care,5,569
+1731,2023-02-19,Mumbai,Rice,Groceries,3,382
+1732,2023-06-18,Bangalore,Charger,Electronics,4,1655
+1733,2023-11-28,Mumbai,Charger,Electronics,3,1163
+1734,2023-11-07,Delhi,Rice,Groceries,2,1092
+1735,2023-10-12,Mumbai,Soap,Personal Care,4,669
+1736,2023-10-26,Chennai,Wheat Flour,Groceries,1,668
+1737,2023-01-08,Chennai,Jeans,Clothing,2,1320
+1738,2023-04-04,Hyderabad,Face Wash,Personal Care,4,544
+1739,2023-03-25,Delhi,Keyboard,Electronics,1,236
+1740,2023-03-15,Bangalore,Shampoo,Personal Care,4,186
+1741,2023-06-20,Chennai,Oil,Groceries,4,1328
+1742,2023-11-18,Mumbai,Jeans,Clothing,4,921
+1743,2023-12-15,Mumbai,Shampoo,Personal Care,3,938
+1744,2023-08-16,Hyderabad,T-Shirt,Clothing,5,59
+1745,2023-05-09,Hyderabad,Face Wash,Personal Care,3,595
+1746,2023-04-27,Mumbai,Sugar,Groceries,1,1908
+1747,2023-07-25,Hyderabad,Headphones,Electronics,3,1931
+1748,2023-06-30,Mumbai,Shampoo,Personal Care,4,910
+1749,2023-09-14,Delhi,Face Wash,Personal Care,1,163
+1750,2023-12-09,Delhi,Shampoo,Personal Care,4,1701
+1751,2023-07-12,Hyderabad,Keyboard,Electronics,1,154
+1752,2023-03-09,Chennai,Soap,Personal Care,5,782
+1753,2023-04-09,Bangalore,Jacket,Clothing,3,710
+1754,2023-07-07,Delhi,Toothpaste,Personal Care,3,1182
+1755,2023-05-12,Delhi,T-Shirt,Clothing,5,511
+1756,2023-04-19,Chennai,Jacket,Clothing,2,677
+1757,2023-04-13,Bangalore,T-Shirt,Clothing,3,161
+1758,2023-09-28,Mumbai,Shampoo,Personal Care,3,885
+1759,2023-10-07,Mumbai,Rice,Groceries,3,1440
+1760,2023-01-24,Delhi,Jacket,Clothing,5,1237
+1761,2023-06-30,Bangalore,Jacket,Clothing,2,482
+1762,2023-09-11,Chennai,Headphones,Electronics,5,912
+1763,2023-09-06,Bangalore,Shampoo,Personal Care,1,1582
+1764,2023-05-18,Chennai,Soap,Personal Care,5,1898
+1765,2023-06-28,Bangalore,Oil,Groceries,3,433
+1766,2023-08-27,Hyderabad,Dress,Clothing,3,1584
+1767,2023-01-30,Chennai,Rice,Groceries,2,355
+1768,2023-07-04,Mumbai,Oil,Groceries,3,255
+1769,2023-01-16,Chennai,Mouse,Electronics,4,1624
+1770,2023-02-28,Delhi,Shampoo,Personal Care,1,321
+1771,2023-09-12,Hyderabad,Face Wash,Personal Care,3,211
+1772,2023-09-30,Bangalore,Sugar,Groceries,2,775
+1773,2023-12-23,Hyderabad,Dress,Clothing,1,1708
+1774,2023-10-19,Hyderabad,Sugar,Groceries,1,612
+1775,2023-09-28,Mumbai,Sugar,Groceries,2,153
+1776,2023-05-06,Hyderabad,Shampoo,Personal Care,2,216
+1777,2023-03-14,Chennai,Wheat Flour,Groceries,3,730
+1778,2023-09-02,Mumbai,Soap,Personal Care,4,1381
+1779,2023-06-24,Chennai,Sugar,Groceries,1,1149
+1780,2023-09-28,Bangalore,Charger,Electronics,1,1922
+1781,2023-12-05,Mumbai,Dress,Clothing,4,1987
+1782,2023-09-27,Delhi,Jacket,Clothing,2,1874
+1783,2023-11-11,Chennai,Sugar,Groceries,4,777
+1784,2023-06-17,Mumbai,Mouse,Electronics,1,1042
+1785,2023-12-02,Chennai,Rice,Groceries,5,332
+1786,2023-07-23,Mumbai,Dress,Clothing,3,708
+1787,2023-04-05,Bangalore,Mouse,Electronics,1,1733
+1788,2023-01-22,Mumbai,Jacket,Clothing,2,1449
+1789,2023-09-29,Mumbai,Rice,Groceries,3,1699
+1790,2023-11-24,Bangalore,Mouse,Electronics,4,513
+1791,2023-02-22,Mumbai,Rice,Groceries,4,1199
+1792,2023-04-07,Chennai,Sugar,Groceries,4,1474
+1793,2023-02-28,Hyderabad,Oil,Groceries,5,167
+1794,2023-08-02,Chennai,Soap,Personal Care,1,68
+1795,2023-05-21,Bangalore,Mouse,Electronics,4,338
+1796,2023-11-06,Chennai,Toothpaste,Personal Care,3,177
+1797,2023-12-04,Delhi,Dress,Clothing,5,1865
+1798,2023-06-06,Delhi,Rice,Groceries,2,1647
+1799,2023-11-14,Hyderabad,Wheat Flour,Groceries,2,1398
+1800,2023-08-07,Hyderabad,Wheat Flour,Groceries,2,1541
+1801,2023-09-23,Delhi,Jacket,Clothing,3,436
+1802,2023-10-07,Delhi,Sugar,Groceries,2,1709
+1803,2023-10-22,Mumbai,Soap,Personal Care,2,1512
+1804,2023-05-28,Bangalore,Sugar,Groceries,4,602
+1805,2023-11-18,Chennai,Charger,Electronics,3,416
+1806,2023-07-26,Mumbai,Soap,Personal Care,3,1207
+1807,2023-02-17,Hyderabad,Shampoo,Personal Care,1,1425
+1808,2023-09-15,Chennai,Charger,Electronics,3,557
+1809,2023-09-23,Chennai,T-Shirt,Clothing,3,1227
+1810,2023-09-05,Bangalore,Keyboard,Electronics,3,609
+1811,2023-10-28,Bangalore,Soap,Personal Care,1,333
+1812,2023-03-24,Hyderabad,Headphones,Electronics,1,1237
+1813,2023-02-15,Delhi,Face Wash,Personal Care,1,1310
+1814,2023-10-10,Delhi,Dress,Clothing,1,891
+1815,2023-05-07,Hyderabad,Charger,Electronics,3,1414
+1816,2023-03-14,Mumbai,Jacket,Clothing,4,1678
+1817,2023-02-12,Hyderabad,Toothpaste,Personal Care,4,1858
+1818,2023-06-17,Hyderabad,Wheat Flour,Groceries,2,261
+1819,2023-03-04,Hyderabad,Sugar,Groceries,4,1120
+1820,2023-10-17,Mumbai,Wheat Flour,Groceries,5,348
+1821,2023-11-10,Hyderabad,Wheat Flour,Groceries,3,1903
+1822,2023-10-31,Delhi,Charger,Electronics,2,1679
+1823,2023-11-15,Chennai,Soap,Personal Care,3,1237
+1824,2023-11-17,Mumbai,Jeans,Clothing,3,919
+1825,2023-07-28,Hyderabad,Face Wash,Personal Care,3,543
+1826,2023-10-22,Hyderabad,Wheat Flour,Groceries,3,1930
+1827,2023-02-06,Hyderabad,Dress,Clothing,1,1767
+1828,2023-09-15,Chennai,Face Wash,Personal Care,3,902
+1829,2023-08-18,Delhi,Toothpaste,Personal Care,3,1261
+1830,2023-04-17,Chennai,Dress,Clothing,2,1325
+1831,2023-03-04,Mumbai,Charger,Electronics,2,1939
+1832,2023-08-02,Chennai,Shampoo,Personal Care,5,821
+1833,2023-07-26,Hyderabad,Mouse,Electronics,4,1037
+1834,2023-04-12,Chennai,Keyboard,Electronics,2,170
+1835,2023-12-14,Chennai,T-Shirt,Clothing,5,763
+1836,2023-10-30,Bangalore,Toothpaste,Personal Care,3,670
+1837,2023-05-09,Bangalore,Keyboard,Electronics,4,118
+1838,2023-08-22,Hyderabad,Dress,Clothing,3,361
+1839,2023-12-10,Hyderabad,Rice,Groceries,2,101
+1840,2023-04-20,Delhi,Sugar,Groceries,5,1621
+1841,2023-12-02,Hyderabad,Wheat Flour,Groceries,2,856
+1842,2023-01-06,Mumbai,Rice,Groceries,5,186
+1843,2023-09-18,Delhi,Sugar,Groceries,1,679
+1844,2023-11-09,Hyderabad,Headphones,Electronics,4,520
+1845,2023-05-21,Bangalore,Sugar,Groceries,5,1672
+1846,2023-09-04,Chennai,Charger,Electronics,5,1474
+1847,2023-04-04,Hyderabad,Shampoo,Personal Care,4,1091
+1848,2023-05-02,Delhi,Shampoo,Personal Care,3,465
+1849,2023-06-11,Hyderabad,Charger,Electronics,3,981
+1850,2023-06-16,Mumbai,Face Wash,Personal Care,3,255
+1851,2023-03-13,Mumbai,Toothpaste,Personal Care,4,1737
+1852,2023-01-19,Mumbai,Rice,Groceries,1,1007
+1853,2023-12-20,Mumbai,Face Wash,Personal Care,2,498
+1854,2023-04-03,Chennai,Wheat Flour,Groceries,1,979
+1855,2023-11-13,Chennai,T-Shirt,Clothing,5,881
+1856,2023-03-12,Chennai,Charger,Electronics,2,66
+1857,2023-01-07,Delhi,Wheat Flour,Groceries,1,1524
+1858,2023-08-29,Hyderabad,Sugar,Groceries,5,242
+1859,2023-07-26,Chennai,Headphones,Electronics,3,1838
+1860,2023-05-24,Hyderabad,Sugar,Groceries,2,1453
+1861,2023-11-08,Hyderabad,Face Wash,Personal Care,1,681
+1862,2023-12-30,Mumbai,Rice,Groceries,1,548
+1863,2023-05-27,Delhi,Shampoo,Personal Care,5,388
+1864,2023-06-30,Hyderabad,Rice,Groceries,3,188
+1865,2023-02-17,Delhi,Jeans,Clothing,3,433
+1866,2023-07-04,Bangalore,Dress,Clothing,4,800
+1867,2023-02-18,Chennai,Charger,Electronics,4,874
+1868,2023-12-01,Bangalore,Soap,Personal Care,5,606
+1869,2023-08-09,Mumbai,T-Shirt,Clothing,3,1819
+1870,2023-03-03,Bangalore,Keyboard,Electronics,3,1000
+1871,2023-05-02,Mumbai,Charger,Electronics,4,892
+1872,2023-03-03,Hyderabad,Jacket,Clothing,3,947
+1873,2023-11-13,Hyderabad,Oil,Groceries,4,1555
+1874,2023-11-10,Chennai,Dress,Clothing,1,299
+1875,2023-07-28,Mumbai,T-Shirt,Clothing,2,1573
+1876,2023-02-28,Bangalore,Sugar,Groceries,4,1614
+1877,2023-08-03,Mumbai,Sugar,Groceries,4,1975
+1878,2023-09-02,Delhi,Oil,Groceries,2,853
+1879,2023-09-24,Mumbai,Jeans,Clothing,5,1342
+1880,2023-04-04,Bangalore,Oil,Groceries,5,1004
+1881,2023-12-02,Hyderabad,Face Wash,Personal Care,3,1280
+1882,2023-12-12,Delhi,Soap,Personal Care,2,445
+1883,2023-03-03,Hyderabad,Face Wash,Personal Care,1,433
+1884,2023-03-02,Hyderabad,Keyboard,Electronics,3,1295
+1885,2023-04-20,Chennai,Shampoo,Personal Care,4,1990
+1886,2023-07-26,Bangalore,Charger,Electronics,2,1048
+1887,2023-12-06,Bangalore,Jacket,Clothing,4,1942
+1888,2023-03-04,Chennai,Oil,Groceries,1,1750
+1889,2023-01-05,Bangalore,Oil,Groceries,3,1664
+1890,2023-08-05,Mumbai,Jeans,Clothing,2,1761
+1891,2023-04-14,Chennai,Dress,Clothing,5,504
+1892,2023-11-27,Hyderabad,Soap,Personal Care,2,1337
+1893,2023-05-20,Mumbai,Shampoo,Personal Care,3,1349
+1894,2023-03-02,Delhi,Sugar,Groceries,3,529
+1895,2023-12-17,Chennai,Headphones,Electronics,3,1748
+1896,2023-07-06,Chennai,Rice,Groceries,3,1061
+1897,2023-10-31,Chennai,Mouse,Electronics,3,1999
+1898,2023-12-22,Mumbai,Mouse,Electronics,2,1506
+1899,2023-07-16,Chennai,Toothpaste,Personal Care,3,1281
+1900,2023-03-09,Chennai,Wheat Flour,Groceries,3,586
+1901,2023-03-15,Chennai,Sugar,Groceries,3,732
+1902,2023-07-30,Mumbai,Headphones,Electronics,4,1121
+1903,2023-07-10,Mumbai,Soap,Personal Care,4,1782
+1904,2023-02-19,Bangalore,Sugar,Groceries,5,829
+1905,2023-06-15,Hyderabad,Shampoo,Personal Care,2,1541
+1906,2023-06-04,Delhi,Toothpaste,Personal Care,3,238
+1907,2023-05-13,Hyderabad,Jacket,Clothing,3,326
+1908,2023-07-01,Delhi,Keyboard,Electronics,1,1050
+1909,2023-11-23,Bangalore,Toothpaste,Personal Care,1,1137
+1910,2023-08-02,Delhi,Sugar,Groceries,4,455
+1911,2023-05-22,Delhi,Headphones,Electronics,5,479
+1912,2023-02-28,Mumbai,Jeans,Clothing,1,424
+1913,2023-06-15,Mumbai,Charger,Electronics,4,1295
+1914,2023-01-13,Chennai,Dress,Clothing,2,1167
+1915,2023-11-18,Bangalore,Shampoo,Personal Care,1,791
+1916,2023-10-26,Bangalore,Soap,Personal Care,3,925
+1917,2023-07-28,Bangalore,T-Shirt,Clothing,2,975
+1918,2023-02-14,Mumbai,Jacket,Clothing,3,568
+1919,2023-08-03,Hyderabad,Charger,Electronics,3,1254
+1920,2023-08-22,Hyderabad,Keyboard,Electronics,4,1878
+1921,2023-07-26,Chennai,Keyboard,Electronics,1,1337
+1922,2023-08-19,Chennai,Soap,Personal Care,4,429
+1923,2023-03-05,Delhi,Charger,Electronics,1,1858
+1924,2023-01-11,Delhi,Shampoo,Personal Care,3,543
+1925,2023-10-17,Mumbai,Toothpaste,Personal Care,4,619
+1926,2023-02-21,Chennai,Jeans,Clothing,2,977
+1927,2023-10-23,Bangalore,Jacket,Clothing,5,1711
+1928,2023-07-11,Chennai,Jacket,Clothing,3,159
+1929,2023-02-08,Bangalore,Face Wash,Personal Care,4,699
+1930,2023-02-05,Chennai,Oil,Groceries,5,1086
+1931,2023-12-04,Delhi,Soap,Personal Care,4,1296
+1932,2023-04-06,Chennai,Keyboard,Electronics,3,1375
+1933,2023-05-08,Mumbai,Jeans,Clothing,2,1497
+1934,2023-12-09,Hyderabad,Dress,Clothing,4,1519
+1935,2023-04-16,Chennai,Sugar,Groceries,2,874
+1936,2023-03-30,Delhi,Jeans,Clothing,1,839
+1937,2023-04-16,Chennai,Charger,Electronics,1,1472
+1938,2023-05-28,Delhi,Oil,Groceries,1,89
+1939,2023-07-27,Hyderabad,Headphones,Electronics,2,894
+1940,2023-07-30,Bangalore,Charger,Electronics,4,1111
+1941,2023-01-18,Bangalore,Headphones,Electronics,3,97
+1942,2023-12-03,Hyderabad,Headphones,Electronics,5,926
+1943,2023-07-07,Delhi,Wheat Flour,Groceries,3,1662
+1944,2023-03-13,Hyderabad,Toothpaste,Personal Care,4,1624
+1945,2023-07-10,Bangalore,Oil,Groceries,3,535
+1946,2023-05-11,Chennai,Wheat Flour,Groceries,3,1485
+1947,2023-07-19,Hyderabad,Soap,Personal Care,5,471
+1948,2023-09-13,Mumbai,Soap,Personal Care,3,955
+1949,2023-12-15,Chennai,T-Shirt,Clothing,3,1872
+1950,2023-10-14,Chennai,Face Wash,Personal Care,1,1200
+1951,2023-02-14,Delhi,Face Wash,Personal Care,4,574
+1952,2023-07-24,Hyderabad,Shampoo,Personal Care,4,549
+1953,2023-09-30,Delhi,Face Wash,Personal Care,1,1970
+1954,2023-10-06,Mumbai,Jeans,Clothing,3,158
+1955,2023-08-17,Hyderabad,Toothpaste,Personal Care,3,830
+1956,2023-01-02,Delhi,T-Shirt,Clothing,5,1345
+1957,2023-08-09,Delhi,Headphones,Electronics,5,657
+1958,2023-05-29,Hyderabad,Sugar,Groceries,5,655
+1959,2023-07-20,Bangalore,Jacket,Clothing,4,192
+1960,2023-06-29,Hyderabad,Face Wash,Personal Care,5,520
+1961,2023-01-01,Bangalore,Oil,Groceries,1,1767
+1962,2023-09-22,Bangalore,Keyboard,Electronics,2,1793
+1963,2023-03-13,Mumbai,Rice,Groceries,1,1002
+1964,2023-08-20,Delhi,Face Wash,Personal Care,1,156
+1965,2023-06-20,Hyderabad,Toothpaste,Personal Care,3,664
+1966,2023-08-01,Chennai,Oil,Groceries,2,782
+1967,2023-07-11,Mumbai,Jacket,Clothing,2,663
+1968,2023-05-19,Hyderabad,Face Wash,Personal Care,1,276
+1969,2023-04-14,Mumbai,Sugar,Groceries,2,1136
+1970,2023-01-06,Mumbai,Charger,Electronics,3,322
+1971,2023-04-29,Chennai,Jeans,Clothing,4,1623
+1972,2023-08-06,Hyderabad,Charger,Electronics,4,1799
+1973,2023-11-04,Delhi,Charger,Electronics,2,1342
+1974,2023-09-04,Bangalore,T-Shirt,Clothing,1,1301
+1975,2023-12-21,Mumbai,Toothpaste,Personal Care,2,301
+1976,2023-10-31,Hyderabad,T-Shirt,Clothing,2,259
+1977,2023-05-17,Bangalore,Charger,Electronics,2,949
+1978,2023-10-17,Mumbai,Charger,Electronics,5,586
+1979,2023-10-09,Bangalore,Face Wash,Personal Care,2,1146
+1980,2023-11-19,Chennai,Dress,Clothing,2,1284
+1981,2023-04-23,Mumbai,Mouse,Electronics,3,513
+1982,2023-10-09,Delhi,T-Shirt,Clothing,5,1629
+1983,2023-05-20,Bangalore,Keyboard,Electronics,2,901
+1984,2023-03-30,Delhi,Charger,Electronics,1,1319
+1985,2023-12-06,Hyderabad,Toothpaste,Personal Care,2,198
+1986,2023-10-21,Chennai,Jeans,Clothing,5,495
+1987,2023-10-29,Hyderabad,Mouse,Electronics,2,927
+1988,2023-03-11,Hyderabad,Oil,Groceries,1,939
+1989,2023-04-01,Delhi,Charger,Electronics,4,1376
+1990,2023-12-26,Mumbai,Oil,Groceries,3,775
+1991,2023-06-29,Hyderabad,Jeans,Clothing,2,394
+1992,2023-07-11,Chennai,Jacket,Clothing,3,622
+1993,2023-02-06,Mumbai,Shampoo,Personal Care,5,360
+1994,2023-03-14,Mumbai,Wheat Flour,Groceries,5,1270
+1995,2023-07-07,Mumbai,Jeans,Clothing,1,409
+1996,2023-11-28,Delhi,Toothpaste,Personal Care,4,157
+1997,2023-08-08,Delhi,Sugar,Groceries,5,942
+1998,2023-06-11,Bangalore,Shampoo,Personal Care,2,1769
+1999,2023-10-05,Chennai,Oil,Groceries,1,1512
